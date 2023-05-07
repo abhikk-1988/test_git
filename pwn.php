@@ -1,3 +1,4 @@
 <?php
 
-// this is my work
+echo date('dMY');
+
